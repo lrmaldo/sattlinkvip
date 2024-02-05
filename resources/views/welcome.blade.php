@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Gruas Frontera Tuxtepec</title>
-    <meta name="description" content="Sistema de Gestión Empresarial Gruas Frontera">
+    <title>Sattlink VIP</title>
+    <meta name="description" content="Sattlink VIP ">
     <meta name="author" content="Ing. Leonardo Maldonado López">
 
     <meta name="keywords" content="gruas,reten, tuxtepec," />
